@@ -17,4 +17,5 @@ A To-Do List app which has firebase integrated for the login/signup and database
 
 ### To become a user of this app directly download the apk file from this link : https://expo.dev/artifacts/eas/uN6zwHKFXtmnutRrWjazvm.apk
 
-### Authentication and database: This app uses free version of Google's firebase for authentication via the users email and it's cloud firestore for database. The time limit is set as 30 days by Google for use of this free version. After that you need to generate the api key again.
+### Authentication and database:
+This app uses free version of Google's firebase for authentication via the users email and it's cloud firestore for database. The time limit is set as 30 days by Google for use of this free version. After that you need to generate the api key again.
